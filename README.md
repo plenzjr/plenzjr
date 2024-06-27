@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & SysAdmin
 ------------------------
 
-* 🌍  I'm based in Curitiba, PR - Brazil
+* 🌍  I'm based in Vancouver, Canada
 * ✉️  You can contact me at [paulogil2010@gmail.com](mailto:paulogil2010@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 
